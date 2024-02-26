@@ -1,0 +1,16 @@
+REM This is BadKB demo script for windows
+
+REM Open windows cmd
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+DELAY 500
+ENTER
+DELAY 750
+
+STRING start https://www.youtube.com/watch?v=vyibFi_DPqc
+ENTER
+DEFAULT_DELAY 50
+DELAY 500
+STRING F
